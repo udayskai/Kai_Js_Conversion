@@ -1,0 +1,17 @@
+
+Conversion
+
+
+Boolean - string = true=true &  false = false
+
+boolean - number = ture is " 1 " / false is " 0 "
+
+ 
+String - boolean = always ture only false when we give " 0 " in  Number form.
+
+String - nummber = give number if we have intger and give  " NON " for string into number.
+
+
+Number - String = same as number given 
+
+Number- Boolean = False if number is " 0  ", and for any other number postive or negtive is "  true  "
